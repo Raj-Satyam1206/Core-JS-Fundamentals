@@ -124,7 +124,6 @@ document.getElementById("Child")
 /*
 First the capturing phase happens and then bubbling phase
 
-
 OUTPUT (when Child element is clicked = Target Element):
 Grandparent Clicked
 Child Clicked
